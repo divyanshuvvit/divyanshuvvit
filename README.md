@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **C++**
+- 💬 Ask me anything about **Programming**
 
 - 📫 How to reach me **divyanshuvvit@gmail.com**
 
