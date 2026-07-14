@@ -1,284 +1,190 @@
-<div align="center">
-
+::: {align="center"}
 # Divyanshu Kumar
 
 ### DevOps Engineer • AWS Cloud Engineer • Python Backend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=22&pause=1800&color=3B82F6&center=true&vCenter=true&width=750&lines=Building+Reliable+Cloud+Infrastructure;Automating+Everything;Deploying+at+Scale;Always+Learning+New+Technologies" />
+`<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=22&pause=1800&color=3B82F6&center=true&vCenter=true&width=750&lines=Building+Reliable+Cloud+Infrastructure;Automating+Everything;Deploying+at+Scale;Always+Learning+New+Technologies" />`{=html}
 
-<br>
-
+```{=html}
 <p>
-<a href="https://github.com/divyanshuvvit">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:divyanshukdevops@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">
-</a>
-
+```
+`<a href="https://github.com/divyanshuvvit">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">`{=html}`</a>`{=html}
+`<a href="https://linkedin.com/in/YOUR_LINKEDIN">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">`{=html}`</a>`{=html}
+`<a href="mailto:divyanshukdevops@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">`{=html}`</a>`{=html}
+```{=html}
 </p>
+```
+`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,100:2563EB&text=Cloud%20Infrastructure%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn"/>`{=html}
+:::
 
----
+------------------------------------------------------------------------
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,100:2563EB&text=Cloud%20Infrastructure%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+# ✨ About Me
 
-</div>
-
----
-
-# About
-
+```{=html}
 <table>
+```
+```{=html}
 <tr>
+```
+```{=html}
+<td width="58%">
+```
+## Hello there 👋
 
-<td width="50%">
+I'm **Divyanshu Kumar**, a passionate **DevOps & Cloud Engineer**
+focused on building reliable, scalable and automated infrastructure.
 
-### Hello 👋
+I enjoy transforming ideas into production-ready deployments through
+Infrastructure as Code, CI/CD pipelines and cloud-native technologies.
 
-I build secure, scalable and automated cloud infrastructure.
+### 🚀 What I'm Doing
 
-My focus is creating production-ready systems using modern DevOps practices while continuously learning new cloud technologies.
+-   ☁ Designing scalable AWS infrastructure
+-   ⚙ Automating deployments with Jenkins & GitHub
+-   🐳 Building containerized applications
+-   ☸ Learning Kubernetes & DevOps best practices
+-   🐍 Developing backend automation using Python
+-   📚 Continuously learning modern cloud technologies
 
-- ☁ AWS Cloud
-- 🐳 Docker
-- ☸ Kubernetes
-- ⚙ Terraform
-- 🚀 Jenkins CI/CD
-- 🐍 Python Automation
+> **Mission:** Build systems that are simple, automated and reliable.
 
+```{=html}
 </td>
+```
+```{=html}
+<td width="42%">
+```
+`<img width="100%" src="https://github-readme-stats.vercel.app/api?username=divyanshuvvit&show_icons=true&theme=transparent&hide_border=true"/>`{=html}
 
-<td width="50%">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
-
+```{=html}
 </td>
-
+```
+```{=html}
 </tr>
+```
+```{=html}
 </table>
-
----
-
-# Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,bash,git,github,python,fastapi,mongodb,mysql,postgres,vscode"/>
-
-</div>
-
----
-
-# Cloud Architecture
-
-<div align="center">
-
-```text
-                 Developer
-
-                     │
-
-                     ▼
-
-                GitHub Repository
-
-                     │
-
-                     ▼
-
-                 Jenkins Pipeline
-
-                     │
-
-                     ▼
-
-               Docker Image Build
-
-                     │
-
-                     ▼
-
-                 Amazon ECR
-
-                     │
-
-                     ▼
-
-              Kubernetes Cluster
-
-                     │
-
-                     ▼
-
-               Production Service
-
-                     │
-
-                     ▼
-
-             CloudWatch Monitoring
 ```
 
-</div>
+------------------------------------------------------------------------
 
----
+# 💻 Tech Stack
 
-# Featured Projects
+::: {align="center"}
+`<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,bash,git,github,python,fastapi,mongodb,mysql,postgres,vscode"/>`{=html}
+:::
 
+------------------------------------------------------------------------
+
+# ⚡ DevOps Control Center
+
+``` text
+╔════════════════════════════════════════════════════╗
+║                 DEVOPS CONTROL CENTER              ║
+╠════════════════════════════════════════════════════╣
+║ ☁ AWS Cloud           ● ONLINE                    ║
+║ 🐳 Docker Engine      ● RUNNING                   ║
+║ ☸ Kubernetes Cluster  ● HEALTHY                   ║
+║ ⚙ Terraform           ● READY                     ║
+║ 🚀 Jenkins            ● BUILD SUCCESS             ║
+║ 🐍 Python             ● AUTOMATING                ║
+║ 🔐 DevSecOps          ● LEARNING                  ║
+╚════════════════════════════════════════════════════╝
+```
+
+------------------------------------------------------------------------
+
+# 🚀 Featured Projects
+
+  -----------------------------------------------------------------------
+  Project                       Description
+  ----------------------------- -----------------------------------------
+  🚀 End-to-End CI/CD Pipeline  Jenkins, Docker, Kubernetes, Terraform,
+                                AWS
+
+  ☁ AWS Infrastructure          EC2, IAM, VPC, ECR, CloudWatch
+
+  🤖 AI Interview Platform      FastAPI, Python, MongoDB
+
+  🎯 Object Detection           YOLOv8, OpenCV, FastAPI
+  -----------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+# 💼 Experience
+
+```{=html}
 <table>
-
+```
+```{=html}
 <tr>
-
-<td width="33%">
-
-## 🚀 CI/CD Pipeline
-
-Docker
-
-Terraform
-
-Jenkins
-
-AWS
-
-Kubernetes
-
-</td>
-
-<td width="33%">
-
-## ☁ AWS Infrastructure
-
-EC2
-
-IAM
-
-VPC
-
-Security Groups
-
-CloudWatch
-
-</td>
-
-<td width="33%">
-
-## 🤖 AI Platform
-
-FastAPI
-
-Python
-
-MongoDB
-
-REST APIs
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# Experience
-
-<table>
-
-<tr>
-
-<td>
-
+```
+```{=html}
+<td width="100%">
+```
 ## Junior Cloud Engineer
 
-**FAHM IT Solutions**
+**FAHM IT SOLUTIONS**
 
-Python Backend
+-   Python Backend Development
+-   AWS EC2 Deployment
+-   Docker Containerization
+-   Linux Administration
+-   Git & GitHub
+-   MongoDB Database
+-   REST API Development
+-   CI/CD Support
 
-Docker
-
-AWS EC2
-
-GitHub
-
-MongoDB
-
-Linux
-
+```{=html}
 </td>
-
-<td>
-
-## STEM Engineer
-
-Technical Mentor
-
-Robotics
-
-Arduino
-
-Python
-
-IoT
-
-</td>
-
+```
+```{=html}
 </tr>
-
+```
+```{=html}
 </table>
+```
 
----
+------------------------------------------------------------------------
 
-# GitHub Dashboard
+# 📊 GitHub Dashboard
 
-<div align="center">
+::: {align="center"}
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=divyanshuvvit&show_icons=true&theme=transparent&hide_border=true"/>`{=html}
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshuvvit&layout=compact&theme=transparent&hide_border=true"/>`{=html}
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+`<br>`{=html}
 
-<br><br>
+`<img src="https://streak-stats.demolab.com?user=divyanshuvvit&theme=transparent&hide_border=true"/>`{=html}
+:::
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+------------------------------------------------------------------------
 
-</div>
+# 🌱 Current Focus
 
----
+  🎯 Goal                      Status
+  ---------------------------- --------
+  AWS Solutions Architecture   🚀
+  Kubernetes                   🚀
+  Terraform                    🚀
+  GitHub Actions               🚀
+  DevSecOps                    📚
+  Observability                📈
 
-# Current Focus
+------------------------------------------------------------------------
 
-<div align="center">
+# 💡 Philosophy
 
-| 🌍 | Learning |
-|:--:|----------|
-| ☁ | AWS Architecture |
-| ⚙ | Terraform |
-| ☸ | Kubernetes |
-| 🚀 | GitHub Actions |
-| 🔐 | DevSecOps |
-| 📈 | Monitoring & Observability |
+::: {align="center"}
+## *Build • Automate • Deploy • Scale*
 
-</div>
+*"Great infrastructure is invisible when everything works."*
+:::
 
----
+------------------------------------------------------------------------
 
-# Philosophy
-
-<div align="center">
-
-## *"Build once. Automate forever."*
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:2563EB,100:0F172A"/>
-
-</div>
+::: {align="center"}
+`<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:2563EB,100:0F172A"/>`{=html}
+:::
