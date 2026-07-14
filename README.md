@@ -1,284 +1,86 @@
-<div align="center">
-
-# Divyanshu Kumar
-
-### DevOps Engineer • AWS Cloud Engineer • Python Backend Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=22&pause=1800&color=3B82F6&center=true&vCenter=true&width=750&lines=Building+Reliable+Cloud+Infrastructure;Automating+Everything;Deploying+at+Scale;Always+Learning+New+Technologies" />
-
-<br>
-
-<p>
-<a href="https://github.com/divyanshuvvit">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://linkedin.com/in/divyanshukr12/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:divyanshukdevops@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">
-</a>
-
-</p>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,100:2563EB&text=Cloud%20Infrastructure%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-
-</div>
-
----
-
-# About
-
-<table>
-<tr>
-
-<td width="50%">
-
-### Hello 👋
-
-I build secure, scalable and automated cloud infrastructure.
-
-My focus is creating production-ready systems using modern DevOps practices while continuously learning new cloud technologies.
-
-- ☁ AWS Cloud
-- 🐳 Docker
-- ☸ Kubernetes
-- ⚙ Terraform
-- 🚀 Jenkins CI/CD
-- 🐍 Python Automation
-
-</td>
-
-<td width="50%">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# Tech Stack
+<!--
+  GitHub Profile README — neofetch style
+  Save this as a repo named EXACTLY your GitHub username
+  (e.g. if your username is "divyanshuk", repo = divyanshuk/divyanshuk)
+  File must be named README.md and placed at the repo root.
+-->
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,bash,git,github,python,fastapi,mongodb,mysql,postgres,vscode"/>
-
-</div>
-
----
-
-# Cloud Architecture
-
-<div align="center">
-
-```text
-                 Developer
-
-                     │
-
-                     ▼
-
-                GitHub Repository
-
-                     │
-
-                     ▼
-
-                 Jenkins Pipeline
-
-                     │
-
-                     ▼
-
-               Docker Image Build
-
-                     │
-
-                     ▼
-
-                 Amazon ECR
-
-                     │
-
-                     ▼
-
-              Kubernetes Cluster
-
-                     │
-
-                     ▼
-
-               Production Service
-
-                     │
-
-                     ▼
-
-             CloudWatch Monitoring
+```
+        .-/+oossssoo+/-.               divyanshu@devops
+    `:+ssssssssssssssssss+:`           ----------------
+  -+ssssssssssssssssssyyssss+-         OS: Linux (Production Ready)
+.ossssssssssssssssssdMMMNysssso.       Host: Fahm IT Solutions
+/ssssssssssshdmmNNmmyNMMMMhssssss/     Uptime: 5+ months (Junior Cloud Engineer)
++ssssssssshmydMMMMMMMNddddyssssssss+   Kernel: AWS EC2 + Docker + Linux
+/sssssssshNMMMyhhyyyyhmNMMMNhssssss/   IDE: VS Code, Terminal
+.ssssssssdMMMNhsssssssssshNMMMdssssss. 
++sssshhhyNMMNyssssssssssssyNMMMysssss+ Languages.Programming: Python, JS, C++, SQL, Bash
+ossyNMMMNyMMhsssssssssssssshmmmhssssso Languages.Real: English, Hindi
+ossyNMMMNyMMhsssssssssssssshmmmhssssso Frameworks: FastAPI, Flask, Node.js
++sssshhhyNMMNyssssssssssssyNMMMysssss+
+.ssssssssdMMMNhsssssssssshNMMMdssssss. Contact ----------------
+/sssssssshNMMMyhhyyyyhdNMMMNhssssss/   Email: divyanshukdevops@gmail.com
++sssssssssdmydMMMMMMMMddddyssssssss+   LinkedIn: [LinkedIn]
+/ssssssssssshdmNNNNmyNMMMMhssssss/     GitHub: [GitHub]
+.ossssssssssssssssssdMMMNysssso.
+  -+sssssssssssssssssyyyssss+-         GitHub Stats -----------------
+    `:+ssssssssssssssssss+:`           Repos: .......... [X]
+        .-/+oossssoo+/-.               Stars: ........... [X]
+                                        Followers: ........ [X]
 ```
 
 </div>
 
 ---
 
-# Featured Projects
+### Hi, I'm Divyanshu Kumar 👋
+**Junior Cloud Engineer @ Fahm IT Solutions** | DevOps & Backend Developer | Bengaluru, India
 
-<table>
-
-<tr>
-
-<td width="33%">
-
-## 🚀 CI/CD Pipeline
-
-Docker
-
-Terraform
-
-Jenkins
-
-AWS
-
-Kubernetes
-
-</td>
-
-<td width="33%">
-
-## ☁ AWS Infrastructure
-
-EC2
-
-IAM
-
-VPC
-
-Security Groups
-
-CloudWatch
-
-</td>
-
-<td width="33%">
-
-## 🤖 AI Platform
-
-FastAPI
-
-Python
-
-MongoDB
-
-REST APIs
-
-</td>
-
-</tr>
-
-</table>
+- 🔭 Currently building CI/CD pipelines with **Jenkins, Docker, Kubernetes & Terraform**
+- ☁️ Working with **AWS** (EC2, IAM, VPC, S3, ECR, EKS, CloudWatch)
+- 🐍 Backend development with **Python, FastAPI, Flask, Node.js**
+- 🧑‍🏫 Mentored **2,000+ students** in Robotics, AI, Python & IoT
+- 📫 Reach me at **divyanshukdevops@gmail.com**
 
 ---
 
-# Experience
+### 🛠 Tech Stack
 
-<table>
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-<tr>
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<td>
-
-## Junior Cloud Engineer
-
-**FAHM IT Solutions**
-
-Python Backend
-
-Docker
-
-AWS EC2
-
-GitHub
-
-MongoDB
-
-Linux
-
-</td>
-
-<td>
-
-## AI/ML Developer
-
-Python
-
-AI/ML
-
-RAG
-
-OpenCV
-
-Node.js
-
-</td>
-
-</tr>
-
-</table>
+**Backend & Databases**
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-# GitHub Dashboard
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
 </div>
 
 ---
 
-# Current Focus
+### 🌐 Connect with me
 
-<div align="center">
-
-| 🌍 | Learning |
-|:--:|----------|
-| ☁ | AWS Architecture |
-| ⚙ | Terraform |
-| ☸ | Kubernetes |
-| 🚀 | GitHub Actions |
-| 🔐 | DevSecOps |
-| 📈 | Monitoring & Observability |
-
-</div>
-
----
-
-# Philosophy
-
-<div align="center">
-
-## *"Build once. Automate forever."*
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:2563EB,100:0F172A"/>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshukdevops@gmail.com)
