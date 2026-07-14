@@ -1,29 +1,145 @@
-<h1 align="center">Hi 👋, I'm Divyanshu Kumar</h1>
-<h3 align="center">A passionate AI/ML developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshuvvit&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshuvvit" /> </p>
+# Hi 👋, I'm Divyanshu Kumar
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshuvvit" alt="divyanshuvvit" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+Cloud+Engineer;Python+Backend+Developer;Docker+%7C+Kubernetes+%7C+Terraform;Always+Learning+New+Technologies" />
 
-- 🔭 I’m currently working on **NLP**
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 
-- 🌱 I’m currently learning **Node.js**
+</div>
 
-- 💬 Ask me anything about **Programming**
+---
 
-- 📫 How to reach me **divyanshuvvit@gmail.com**
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                       divyanshu@github:~$ fastfetch                 ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ Name        : Divyanshu Kumar                                       ║
+║ Role        : Junior Cloud Engineer                                 ║
+║ Location    : Bengaluru, India                                      ║
+║ Education   : B.Tech Computer Science & Engineering                 ║
+║ Cloud       : AWS                                                   ║
+║ DevOps      : Docker | Kubernetes | Jenkins | Terraform | Ansible   ║
+║ Backend     : Python | FastAPI | Flask | REST APIs                  ║
+║ Database    : MongoDB | MySQL | PostgreSQL                          ║
+║ OS          : Ubuntu Linux                                          ║
+║ Editor      : VS Code                                               ║
+║ Shell       : Bash                                                  ║
+║ Learning    : AWS | Kubernetes | DevSecOps                          ║
+║ Motto       : Automate Everything 🚀                                ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1A941slanW32N-3ZyU7MYCfY1P26r2N2p/view?usp=drivesdk](https://drive.google.com/file/d/1A941slanW32N-3ZyU7MYCfY1P26r2N2p/view?usp=drivesdk)
+# 💻 Tech Stack
 
-- ⚡ Fun fact **I think I am Sun**
+<p align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/divyanshukr12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/divyanshukr12/" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,bash,git,github,python,fastapi,flask,mongodb,mysql,postgres,vscode" />
+
 </p>
 
+---
 
+# 📊 GitHub Analytics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshuvvit&show_icons=true&locale=en&layout=compact" alt="divyanshuvvit" /></p>
+<p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshuvvit&show_icons=true&locale=en" alt="divyanshuvvit" /></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### ☁️ End-to-End CI/CD Pipeline on AWS
+
+- Jenkins
+- Docker
+- Kubernetes
+- Terraform
+- Ansible
+- AWS EC2
+
+---
+
+### 🤖 AI-Powered Interview Assessment Platform
+
+- Python
+- FastAPI
+- MongoDB
+- REST APIs
+
+---
+
+### 🎯 Real-Time Object Detection System
+
+- YOLOv8
+- OpenCV
+- FastAPI
+
+---
+
+# 🌱 Currently Learning
+
+- AWS DevOps
+- Kubernetes
+- Terraform
+- DevSecOps
+- GitHub Actions
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/Ydivyanshukr12">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:divyanshukdevops@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/divyanshuvvit">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ "Code. Automate. Deploy. Repeat."
+
+</div>
