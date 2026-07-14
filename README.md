@@ -1,145 +1,123 @@
 <div align="center">
 
-# Hi 👋, I'm Divyanshu Kumar
+# ⚡ DIVYANSHU KUMAR
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+Cloud+Engineer;Python+Backend+Developer;Docker+%7C+Kubernetes+%7C+Terraform;Always+Learning+New+Technologies" />
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=00D8FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+Cloud+Engineer;Python+Backend+Developer;Building+Reliable+Cloud+Infrastructure" />
 
 </div>
 
----
+```bash
+┌──(divyanshu㉿github)-[~/profile]
+└─$ neofetch
 
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                       divyanshu@github:~$ fastfetch                 ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ Name        : Divyanshu Kumar                                       ║
-║ Role        : Junior Cloud Engineer                                 ║
-║ Location    : Bengaluru, India                                      ║
-║ Education   : B.Tech Computer Science & Engineering                 ║
-║ Cloud       : AWS                                                   ║
-║ DevOps      : Docker | Kubernetes | Jenkins | Terraform | Ansible   ║
-║ Backend     : Python | FastAPI | Flask | REST APIs                  ║
-║ Database    : MongoDB | MySQL | PostgreSQL                          ║
-║ OS          : Ubuntu Linux                                          ║
-║ Editor      : VS Code                                               ║
-║ Shell       : Bash                                                  ║
-║ Learning    : AWS | Kubernetes | DevSecOps                          ║
-║ Motto       : Automate Everything 🚀                                ║
-╚══════════════════════════════════════════════════════════════════════╝
+                  -`                     divyanshu@github
+                 .o+`                    -------------------------
+                `ooo/                    Role     : DevOps Engineer
+               `+oooo:                   Location : Bengaluru, India 🇮🇳
+              `+oooooo:                  Cloud    : AWS
+              -+oooooo+:                 IaC      : Terraform
+            `/:-:++oooo+:                CI/CD    : Jenkins
+           `/++++/+++++++:               Containers : Docker
+          `/++++++++++++++:              Orchestration : Kubernetes
+         `/+++ooooooooooooo/`            Backend : Python • FastAPI
+        ./ooosssso++osssssso+`           OS : Ubuntu Linux
+       .oossssso-````/ossssss+`          Editor : VS Code
+      -osssssso.      :ssssssso.         Shell : Bash
+     :osssssss/        osssso+++.        Status : Always Learning 🚀
 ```
 
-# 💻 Tech Stack
+---
+
+## ⚙️ Current Mission
+
+```text
+✓ Automating Infrastructure
+✓ Building CI/CD Pipelines
+✓ Learning Cloud Architecture
+✓ Deploying Containerized Applications
+✓ Contributing to Open Source
+```
+
+---
+
+## 🧰 Toolbox
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,bash,git,github,python,fastapi,flask,mongodb,mysql,postgres,vscode" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,bash,git,github,python,fastapi,mongodb,mysql,postgres,vscode"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 System Dashboard
+
+```text
+AWS              ███████████████████░░   90%
+
+Docker           ██████████████████░░░   88%
+
+Kubernetes       ███████████████░░░░░░   75%
+
+Terraform        ██████████████░░░░░░░   72%
+
+Python           ████████████████████░   92%
+
+Linux            ███████████████████░░   90%
+```
+
+---
+
+## 🚀 Featured Deployments
+
+📦 End-to-End CI/CD Pipeline on AWS
+
+☁️ Infrastructure as Code using Terraform
+
+🐳 Kubernetes Application Deployment
+
+🤖 AI Interview Assessment Platform
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🌐 Connect
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### ☁️ End-to-End CI/CD Pipeline on AWS
-
-- Jenkins
-- Docker
-- Kubernetes
-- Terraform
-- Ansible
-- AWS EC2
-
----
-
-### 🤖 AI-Powered Interview Assessment Platform
-
-- Python
-- FastAPI
-- MongoDB
-- REST APIs
-
----
-
-### 🎯 Real-Time Object Detection System
-
-- YOLOv8
-- OpenCV
-- FastAPI
-
----
-
-# 🌱 Currently Learning
-
-- AWS DevOps
-- Kubernetes
-- Terraform
-- DevSecOps
-- GitHub Actions
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/Ydivyanshukr12">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:divyanshukdevops@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/divyanshuvvit">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
+[LinkedIn](https://linkedin.com/in/divyanshukr12) •
+[Email](mailto:divyanshukdevops@gmail.com) •
+[GitHub](https://github.com/divyanshuvvit@gmail.com)
 
 ---
 
 <div align="center">
 
-### ⚡ "Code. Automate. Deploy. Repeat."
+```text
+while(alive){
+    learn();
+    build();
+    automate();
+    deploy();
+    repeat();
+}
+```
+
+⭐ Thanks for visiting my profile!
 
 </div>
